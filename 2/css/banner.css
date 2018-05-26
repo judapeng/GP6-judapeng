@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.banner{
+	width: 500px;
+	height: 300px;
+	margin: auto;
+	position: relative;
+}
+.banner li{
+	position: absolute;
+	width: 500px;
+	height: 300px;
+	list-style: none;
+}
+.banner ul{
+	width: 500px;
+	height: 300px;
+}
+.banner	ul li img{
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
